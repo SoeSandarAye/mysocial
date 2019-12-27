@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+f096435edcc3c128e47e92d2fd41a3c703768f95 refs/remotes/origin/active
+3de2bed8e72bcc1003a46af2b30202de8d9fab8d refs/remotes/origin/admin
+3de2bed8e72bcc1003a46af2b30202de8d9fab8d refs/remotes/origin/chat
+3de2bed8e72bcc1003a46af2b30202de8d9fab8d refs/remotes/origin/comment
+3de2bed8e72bcc1003a46af2b30202de8d9fab8d refs/remotes/origin/like
+94bb89af5089dfa1fe84c964c243ea5d780bc7f2 refs/remotes/origin/master
+3de2bed8e72bcc1003a46af2b30202de8d9fab8d refs/remotes/origin/post
+3de2bed8e72bcc1003a46af2b30202de8d9fab8d refs/remotes/origin/pyaephyo
+3de2bed8e72bcc1003a46af2b30202de8d9fab8d refs/remotes/origin/soesandar
